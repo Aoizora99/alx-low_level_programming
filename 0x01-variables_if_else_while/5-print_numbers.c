@@ -12,6 +12,6 @@ for (i = 48; i <= 57; i++)
 {
 printf("%d", i);
 }
-putchar("\n");
+printf("\n");
 return (0);
 }
